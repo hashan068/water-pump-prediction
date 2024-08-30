@@ -1,0 +1,12 @@
+name: waterpump
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
